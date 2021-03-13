@@ -28,4 +28,4 @@
 
 ## Section 3: UI/UX
 ### The overall UI and UX design successfully fit the author's need on the web map on a fundamental level. In detail, some design is a catastrophe. As I mentioned in the previous section, the largest zoom-in level would not automatically trigger the markers. This could an unfriendly design for a new user which is not a fatal mistake. However, whenever any user clicks and opens a cluster with 1000+ points, it is a hedgehog. There is no indication for each artwork type or any detailed information for users but a circle for each marker. It is pure luck for what a user could visit. And revisit a previously visited point is nearly impossible. Even if a user remembers the artwork's name or general location. It is just not possible for any human to remember the precise location of a spine in this hedgehog.
-![](img/3.png)
+![](img/4.png)
