@@ -1,4 +1,4 @@
-# THE GEOGRAPHY OF PUBLIC DOMAIN OBJECTS AT THE METROPOLITAN MUSEUM OF ART Analysis
+#  <a herf=https://digitalfootprints.github.io/artmap/> THE GEOGRAPHY OF PUBLIC DOMAIN OBJECTS AT THE METROPOLITAN MUSEUM OF ART Analysis </a>
 ![](img/1.PNG)
 ## Section 1: Introduction
 ### <a herf=https://digitalfootprints.github.io/artmap/> *THE GEOGRAPHY OF PUBLIC DOMAIN OBJECTS AT THE METROPOLITAN MUSEUM OF ART* </a> is a web map project, which allows users to access a world-class collection of art and antiquities at their fingertips. This web map contains two main sections: 1) a web map to represent the artworks' location; 2) a web page that displays the artwork's information; The web map contains clustered markers that display global artworks' location. It will show more markers at the time the user zoom in on the map.This feature provides a cartographic visualization of a variety of relationships between art and geography through time.
